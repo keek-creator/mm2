@@ -1821,8 +1821,11 @@ Converted["_CanvasGroup"].Parent = Converted["_Menu"]
 Converted["_UICorner15"].CornerRadius = UDim.new(0, 16)
 Converted["_UICorner15"].Parent = Converted["_CanvasGroup"]
 
-Converted["_ImageLabel"].Image = "rbxassetid://76885958022674"
--- Converted["_ImageLabel"].ImageContent = Content{SourceType=Uri, Uri=rbxassetid://768859580226}
+Converted["_ImageLabel"].Text = "🫟"
+Converted["_ImageLabel"].Font = Enum.Font.GothamBold
+Converted["_ImageLabel"].TextColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_ImageLabel"].TextScaled = true
+Converted["_ImageLabel"].BackgroundTransparency = 1
 Converted["_ImageLabel"].AnchorPoint = Vector2.new(0.5, 0.5)
 Converted["_ImageLabel"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel"].BorderColor3 = Color3.fromRGB(1, 1, 1)
