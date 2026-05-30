@@ -1850,7 +1850,7 @@ Converted["_Opener"].Name = "Opener"
 Converted["_Opener"].Parent = Converted["_CanvasGroup"]
 
 Converted["_TextLabel4"].Font = Enum.Font.GothamBold
-Converted["_TextLabel4"].Text = "Keek Hub Menu"
+Converted["_TextLabel4"].Text = "🪙"
 Converted["_TextLabel4"].TextColor3 = Color3.fromRGB(255, 69.00000348687172, 67.00000360608101)
 Converted["_TextLabel4"].TextScaled = true
 Converted["_TextLabel4"].TextSize = 14
@@ -1892,7 +1892,7 @@ Converted["_themedColor2"].Name = "themedColor"
 Converted["_themedColor2"].Parent = Converted["_Frame1"]
 
 Converted["_TextLabel5"].Font = Enum.Font.Gotham
-Converted["_TextLabel5"].Text = "Tap here to minimize."
+Converted["_TextLabel5"].Text = "Tap here to close"
 Converted["_TextLabel5"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_TextLabel5"].TextSize = 15
 Converted["_TextLabel5"].TextWrapped = true
@@ -1960,7 +1960,7 @@ Converted["_TextLabel6"].Size = UDim2.new(0, 200, 0, 50)
 Converted["_TextLabel6"].Parent = Converted["_Area1"]
 
 Converted["_TextLabel7"].Font = Enum.Font.GothamBold
-Converted["_TextLabel7"].Text = "Keek"
+Converted["_TextLabel7"].Text = "🪙"
 Converted["_TextLabel7"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_TextLabel7"].TextScaled = true
 Converted["_TextLabel7"].TextSize = 14
