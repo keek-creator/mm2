@@ -1821,10 +1821,10 @@ Converted["_CanvasGroup"].Parent = Converted["_Menu"]
 Converted["_UICorner15"].CornerRadius = UDim.new(0, 16)
 Converted["_UICorner15"].Parent = Converted["_CanvasGroup"]
 
-Converted["_ImageLabel"].Image = "rbxassetid://17864987433"
+Converted["_ImageLabel"].Image = "rbxassetid://76885958022674"
 -- Converted["_ImageLabel"].ImageContent = Content{SourceType=Uri, Uri=rbxassetid://17864987433}
 Converted["_ImageLabel"].AnchorPoint = Vector2.new(0.5, 0.5)
-Converted["_ImageLabel"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Converted["_ImageLabel"].BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Converted["_ImageLabel"].BorderColor3 = Color3.fromRGB(0, 0, 0)
 Converted["_ImageLabel"].BorderSizePixel = 0
 Converted["_ImageLabel"].Position = UDim2.new(0.5, 0, 0.5, 0)
