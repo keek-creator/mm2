@@ -1824,17 +1824,17 @@ Converted["_UICorner15"].Parent = Converted["_CanvasGroup"]
 Converted["_ImageLabel"].Image = "rbxassetid://76885958022674"
 -- Converted["_ImageLabel"].ImageContent = Content{SourceType=Uri, Uri=rbxassetid://17864987433}
 Converted["_ImageLabel"].AnchorPoint = Vector2.new(0.5, 0.5)
-Converted["_ImageLabel"].BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Converted["_ImageLabel"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel"].BorderColor3 = Color3.fromRGB(0, 0, 0)
 Converted["_ImageLabel"].BorderSizePixel = 0
 Converted["_ImageLabel"].Position = UDim2.new(0.5, 0, 0.5, 0)
-Converted["_ImageLabel"].Size = UDim2.new(0, 50, 0, 50)
+Converted["_ImageLabel"].Size = UDim2.new(0, 55, 0, 55)
 Converted["_ImageLabel"].Visible = false
 Converted["_ImageLabel"].ZIndex = 3
 Converted["_ImageLabel"].Parent = Converted["_CanvasGroup"]
 
 Converted["_Opener"].Font = Enum.Font.SourceSans
-Converted["_Opener"].Text = ""
+Converted["_Opener"].Text = "🐦‍🔥"
 Converted["_Opener"].TextColor3 = Color3.fromRGB(0, 0, 0)
 Converted["_Opener"].TextSize = 14
 Converted["_Opener"].AutoButtonColor = false
